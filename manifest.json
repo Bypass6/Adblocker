@@ -4,7 +4,7 @@
     "description": "Silhouettix's Adblocker",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
-        "scripts": ["background.js"]
+        "scripts": ["blocked.js"]
     },
     "icons": {
         "16": "icons/logo_16x16.png",
