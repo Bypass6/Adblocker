@@ -1,5 +1,5 @@
 {
-    "name": "DevSage Adblocker",
+    "name": "Silhouettix's Adblocker",
     "version": "1.0",
     "description": "Silhouettix's Adblocker",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
